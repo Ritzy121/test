@@ -1,4 +1,6 @@
-## The wat this works,
+## The way this works,
+
+Before continuing, make sure agents are running as per GitHelp.sts guide in your OneDrive folder
 
 Ritzy121 main account that holds this repository.
 
